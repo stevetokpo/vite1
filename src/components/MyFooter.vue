@@ -1,5 +1,5 @@
 <template>
-  <footer class="lg:h-[120vh] bg-white lg:bg-gray-900 w-screen">
+  <footer id="footer" class="lg:h-[120vh] bg-white lg:bg-gray-900 w-screen">
     <section class="lg:h-screen relative">
       <div class="lg:pt-32 lg:pl-80 flex flex-col items-center lg:flex-row">
         <div
