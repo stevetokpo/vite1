@@ -2107,7 +2107,7 @@ textarea.w-input, textarea.w-select {
 :root {
   --cod-gray: #101010;
   --silver: #c4c4c4;
-  --mine-shaft-80: rgba(41, 41, 41, .5);
+  --mine-shaft-80: rgba(41, 41, 41, .45);
   --de-york: #86cba1;
   --gray: #171717;
   --mine-shaft: #292929;
